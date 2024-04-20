@@ -44,3 +44,4 @@ jobs:
           to: ${{ env.SMTP_RECEIVER }}
           from: ${{ env.SMTP_USERNAME }}
           body: ${{ env.OUTPUT }}
+
